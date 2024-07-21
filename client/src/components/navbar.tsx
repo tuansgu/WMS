@@ -20,7 +20,7 @@ const Navbar = () => {
               <FontAwesomeIcon icon={faTachometerAlt} className="me-2" /> Dashboard
             </Link>
             <Link to="customers" className="bg-secondary list-group-item mb-4 list-group-item-action text-light text-start fs-5">
-              <FontAwesomeIcon icon={faUser} className="me-2" /> Customer
+              <FontAwesomeIcon icon={faUser} className="me-2" /> Customers
             </Link>
             <Link to="orders" className="bg-secondary list-group-item mb-4 list-group-item-action text-light text-start fs-5">
               <FontAwesomeIcon icon={faClipboardList} className="me-2" /> Orders
